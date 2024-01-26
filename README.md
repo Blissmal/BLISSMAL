@@ -5,7 +5,7 @@
 A full stack software developer passionate about web and android app development :bar_chart:. I like automating and working with AI in research and coding staff. Am open to learning Data science and cybersecurity for data security reasons in any organization. Free to join any community to learn more programming concepts and collaborate for problem solving aspects in both web and android applications.
 
 - 🌱 I’m currently pursuing **Barchelor of Science in Software Engineerig, Kirinyaga University, Kenya**
-- ⚡ **Fun fact:** I **strongly** have a strong foundation in solving problems pertaining mathematics in any related field
+- ⚡ I **strongly** have a strong foundation in solving problems pertaining mathematics in any related field
 - :bulb: I'm interested in : **Big Data, Cloud computing, Machine Learning, ethical hacking and Data Science**
 - 💬 Talk to me about Memes, Football, Movies 🎥, Gaming 🎮, Amateur Photography 📸
 
