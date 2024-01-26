@@ -34,7 +34,7 @@ A full stack software developer passionate about web and android app development
 |        `js`        |     <img src="icons/JavaScript.svg" width="48">     |
 |      `kotlin`      |    <img src="icons/Kotlin-Dark.svg" width="48">     |
 |      `linux`       |     <img src="icons/Linux-Dark.svg" width="48">     |
-|        `py`        |    <img src="icons/Python-Dark.svg" width="48">     |
+|        `python`        |    <img src="icons/Python-Dark.svg" width="48">     |
 |       `sass`       |        <img src="icons/Sass.svg" width="48">        |
 
 
