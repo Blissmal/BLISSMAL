@@ -7,7 +7,7 @@ A full stack software developer passionate about web and android app development
 - 🌱 I’m currently pursuing **Barchelor of Science in Software Engineerig, Kirinyaga University, Kenya**
 - ⚡ I **strongly** have a strong foundation in solving problems pertaining mathematics in any related field
 - :bulb: I'm interested in : **Big Data, Cloud computing, Machine Learning, ethical hacking and Data Science**
-- 💬 Talk to me about Memes, Football, Movies 🎥, Gaming 🎮, Amateur Photography 📸
+- 💬 Talk to me about Memes, Football, Movies 🎥, Gaming 🎮,Forex trading, Amateur Photography 📸
 
 ### My skills include
 
