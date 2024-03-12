@@ -11,8 +11,6 @@ A full stack software developer passionate about web and android app development
 
 ### My skills include
 
-
-|      Icon ID       |                         Icon                          |
 | :----------------: | :---------------------------------------------------:
 |  `androidstudio`   | <img src="icons/AndroidStudio-Dark.svg" width="48"> |
 |       `bash`       |     <img src="icons/Bash-Dark.svg" width="48">      |
