@@ -70,8 +70,8 @@ I’m a passionate **Full Stack Software Developer** with a love for **building 
 ### 📬 Let’s Connect!
 
 - 📱 WhatsApp: [+254 706 845000](https://wa.me/254706845000)
-- 📸 Instagram: [@bethuel_dev](#)
-- 💼 LinkedIn: [@bethuel-maluti](#)
+- 📸 Instagram: [@bethuel_dev](https://www.instagram.com/_de_bliss_)
+- 💼 LinkedIn: [@bethuel-maluti](https://ke.linkedin.com/in/bethuel-maluti-20aa57264)
 
 ---
 
