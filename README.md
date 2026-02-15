@@ -623,10 +623,7 @@ EAT (UTC+3)
 </p>
 
 <!-- Snake Animation -->
-<p align="center">
   ![Snake animation](https://raw.githubusercontent.com/Blissmal/Blissmal/output/github-snake.svg)
-</p>
-
 ---
 
 ## 🏆 Achievements & Recognition
