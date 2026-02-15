@@ -30,7 +30,7 @@ const bethuel = {
   title: "Full Stack Software Engineer",
   location: "Nairobi, Kenya 🇰🇪",
   education: "BSc Software Engineering @ Kirinyaga University",
-  experience: "3+ years building production-ready applications",
+  experience: "2+ years building production-ready applications",
   
   currentFocus: [
     "🛒 Advanced E-Commerce Solutions",
@@ -44,7 +44,7 @@ const bethuel = {
     mobile: ["Android", "Java", "Kotlin", "Flutter", "Firebase"],
     web: ["Next.js 16", "React", "TypeScript", "Node.js", "Prisma"],
     backend: ["PostgreSQL", "RESTful APIs", "WebSockets", "Redis"],
-    design: ["Figma", "Adobe Suite", "UI/UX", "Design Systems"],
+    design: ["Adobe Suite", "UI/UX", "Design Systems"],
     devOps: ["Git", "Linux", "Vercel", "Docker", "CI/CD"]
   },
   
@@ -203,7 +203,7 @@ const bethuel = {
 - 📱 Fully responsive design
 
 **Impact:**
-- Handles 5K+ daily transactions
+- Ability to handle 5k daily transactions
 - 99.9% uptime reliability
 - Average load time: < 2s
 
@@ -219,16 +219,14 @@ const bethuel = {
 - ⚡ Real-time bidirectional chat
 - 📎 File attachments (images, PDFs, docs)
 - 🔔 Push & email notifications
-- 👀 Read receipts & typing indicators
 - 🏷️ Priority & status management
 - 📧 Automated email integration
-- 🤖 AI-powered message templates
 
 **Impact:**
 - 40% reduction in response time
 - 95% customer satisfaction rate
-- Supports 1000+ concurrent chats
-
+- Automated order status updates
+  
 </td>
 <td width="33%" valign="top">
 
@@ -245,11 +243,6 @@ const bethuel = {
 - 🔄 Sync across devices
 - 🌐 RESTful API integration
 - 📊 Analytics & crash reporting
-
-**Impact:**
-- 10K+ combined downloads
-- 4.5+ star average rating
-- Featured on Play Store
 
 </td>
 </tr>
@@ -301,9 +294,8 @@ const bethuel = {
 - Database Management Systems
 
 **Key Achievements:**
-- Dean's List (Multiple Semesters)
-- Led multiple group projects
-- Active in tech communities
+- Handled multiple group projects
+- Projects deployment on vercel
 
 </td>
 <td width="50%">
@@ -530,32 +522,28 @@ const bethuel = {
 
 ---
 
-## 🎯 2025 Goals & Roadmap
+## 🎯 2026 Goals & Roadmap
 
 <table>
 <tr>
 <td width="50%">
 
 ### 📈 **Professional Goals**
-- [ ] Build and launch 3 SaaS products
-- [ ] Contribute to 15+ open-source projects
-- [ ] Earn AWS Solutions Architect certification
-- [ ] Master AI/ML and deploy 5 ML applications
-- [ ] Reach 25 production-grade projects
-- [ ] Mentor 10+ junior developers
-- [ ] Speak at 2 tech conferences
+- [ ] Build and launch a Saas project
+- [ ] Contribute to open-source projects
+- [ ] Master AI/ML
+- [ ] Reach 6 production-grade projects
+- [ ] Best practices
 
 </td>
 <td width="50%">
 
 ### 🚀 **Technical Goals**
-- [ ] Deep dive into Kubernetes & microservices
-- [ ] Master blockchain & Web3 development
-- [ ] Build advanced AI chatbot systems
-- [ ] Learn Rust and systems programming
+- [ ] Deep dive into containerization
+- [ ] Build advanced AI chatbot systems/ problem solvers
+- [ ] Learn systems programming
 - [ ] Contribute to major open-source projects
-- [ ] Create comprehensive tech tutorials
-- [ ] Build a developer community
+- [ ] Colaborate in a tech community
 
 </td>
 </tr>
