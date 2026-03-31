@@ -464,7 +464,7 @@ const bethuel = {
 <tr>
 <td align="center">
 <b>📧 Email</b><br/>
-<a href="mailto:bethuelmaluti@gmail.com">bethuelmaluti@gmail.com</a>
+<a href="mailto:malutibethuel@gmail.com">malutibethuel@gmail.com</a>
 </td>
 <td align="center">
 <b>📱 Phone</b><br/>
