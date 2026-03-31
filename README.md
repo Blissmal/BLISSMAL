@@ -239,19 +239,13 @@ const bethuel = {
 ## 📊 GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blissmal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blissmal&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=58A6FF&dates=C9D1D9" width="49%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blissmal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&hide=html,css" width="49%" alt="Top Languages"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blissmal&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&area_color=1F6FEB" width="49%" alt="Contribution Graph"/>
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blissmal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-</p>
 
 <!-- Achievement Metrics -->
 <p align="center">
@@ -565,10 +559,5 @@ If you find my work valuable and would like to support future projects, consider
   </p>
   
   <br/>
-  
-  <!-- Visitor Counter -->
-  <p>
-    <img src="https://visitcount.itsvg.in/api?id=Blissmal&icon=5&color=6" alt="Visit Counter"/>
-  </p>
   
 </div>
